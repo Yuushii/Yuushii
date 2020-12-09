@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Yuushi</h1>
 <h4 align="center">17 years old Discord bot developer from Turkey.</h4>
 <p align="center">
- <a href="https://discord.com/users/743836433252483133" target"blank_"><img src="https://img.shields.io/badge/Discord%20Profilim%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+ <a href="https://discord.com/users/743836433252483133" target"blank_"><img src="https://img.shields.io/badge/Discord%20Profile%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/Yuushii" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://open.spotify.com/user/2v2ypbjbt8hh1jzs7dczkw8nr" target"blank_"><img src="https://img.shields.io/badge/Spotify%20Hesab%C4%B1m%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://www.instagram.com/yuushhi/?hl=tr" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
