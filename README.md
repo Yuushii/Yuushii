@@ -8,9 +8,9 @@
  <a href="https://github.com/Yuushii" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
  <a href="https://www.youtube.com/channel/UCRjW8hxueYU1EMEidoh27QQ" target"blank_"><img src="https://img.shields.io/badge/Yuushi%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
  
- ### Spotify Playing 🎧
+### Spotify Playing 🎧
 
-[<img src="https://now-playing-Manodias.vercel.app/api/spotify-playing" alt="Manodias Spotify Playing" width="350" />](https://open.spotify.com/user/2v2ypbjbt8hh1jzs7dczkw8nr)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
  
  ### Languages and Tools:
 
