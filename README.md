@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Yuushi</h1>
+<h1 align="center">Hi https://camo.githubusercontent.com/2228963a861448198cb6ee457726a1b418f59d99c6d677bf45bdb4afafebea78/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f51374c486d6f467756503659633173775a732f67697068792e676966 I'm Yuushi</h1>
 <h4 align="center"></h4>
 <p align="center">
  <a href="https://discord.com/users/743836433252483133" target"blank_"><img src="https://img.shields.io/badge/Discord%20Profile%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
