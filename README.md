@@ -1,4 +1,5 @@
-<h1 align="center">Hi  I'm Yuushi</h1>
+<h2 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<p align="center">
 <h4 align="center"></h4>
 <p align="center">
  <a href="https://discord.com/users/743836433252483133" target"blank_"><img src="https://img.shields.io/badge/Discord%20Profile%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
